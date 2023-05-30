@@ -10,5 +10,4 @@ ________________________________________
 -	Write cube and rollup aggregation queries.
 -	Create Materialized Views (/MQTs).
 
-
-![image](https://user-images.githubusercontent.com/108534539/218347565-ebebee5e-3de3-427a-8370-cef5e44c3591.png)
+![Module 3 - Data warehouse](https://github.com/berkakbulbul/IBM-Data-Engineering-Capstone-Project/assets/45591968/e75ebf6e-9a50-4f44-97aa-f3a43997977f)
