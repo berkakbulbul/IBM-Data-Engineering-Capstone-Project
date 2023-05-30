@@ -11,4 +11,4 @@ ________________________________________
 -	Query the data in the OLTP database using SQL.
 -	Automate database administration tasks.
 
-![image](https://user-images.githubusercontent.com/108534539/218347565-ebebee5e-3de3-427a-8370-cef5e44c3591.png)
+![Module 1 - OLTP MySQL](https://github.com/berkakbulbul/IBM-Data-Engineering-Capstone-Project/assets/45591968/b154a08a-8335-49fd-87f8-011d691b00cf)

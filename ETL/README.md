@@ -13,5 +13,4 @@ ________________________________________
 -	Load transformed data into a data warehouse.
 -	Create, run, and manage data pipelines using Apache Airflow.
 
-
-![image](https://user-images.githubusercontent.com/108534539/218347565-ebebee5e-3de3-427a-8370-cef5e44c3591.png)
+![Module 5 - ETL Apache Airflow](https://github.com/berkakbulbul/IBM-Data-Engineering-Capstone-Project/assets/45591968/0feecbe8-ccc5-4475-8d20-33781db0cabe)

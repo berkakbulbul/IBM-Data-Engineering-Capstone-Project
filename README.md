@@ -1,6 +1,6 @@
 # IBM-Data-Engineering-Capstone-Project
 
-![image](https://user-images.githubusercontent.com/108534539/218347565-ebebee5e-3de3-427a-8370-cef5e44c3591.png)
+![image](https://github.com/berkakbulbul/IBM-Data-Engineering-Capstone-Project/assets/45591968/d65b79fa-ecc3-4b46-b9aa-838ad89c93ad)
 
 
 ## Environment
