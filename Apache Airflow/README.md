@@ -13,4 +13,4 @@ ________________________________________
 -	Load transformed data into a data warehouse.
 -	Create, run, and manage data pipelines using Apache Airflow.
 
-![Module 1 - OLTP MySQL](https://github.com/berkakbulbul/IBM-Data-Engineering-Capstone-Project/assets/45591968/3a671931-0cd2-47f9-99db-a509ba396ab6)
+![Module 5 - ETL Apache Airflow](https://github.com/berkakbulbul/IBM-Data-Engineering-Capstone-Project/assets/45591968/05a092d5-f22e-442c-a023-84009e228080)
